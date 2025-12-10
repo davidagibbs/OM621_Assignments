@@ -1,6 +1,6 @@
 # OM 621 Assignments Repository
 
-### This repository is dedicated to a school assignment that involved a hypothetical company that was having issues with budgetting for future logistics expenses. Here is a video overview of the project *********** and a written description below.
+This repository is dedicated to a school assignment that involved a hypothetical company that was having issues with budgetting for future logistics expenses. Here is a video [Overview of the Project](../videos/walkthrough.mp4) and a written description below.
 
 ### The problem
 
