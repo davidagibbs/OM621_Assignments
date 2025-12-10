@@ -1,6 +1,6 @@
 # OM 621 Assignments Repository
 
-This repository is dedicated to a school assignment that involved a hypothetical company that was having issues with budgetting for future logistics expenses. Here is a video [Overview of the Project](/Videos/walkthrough.mp4) and a written description below.
+This repository is dedicated to a school assignment that involved a hypothetical company that was having issues with budgeting for future logistics expenses. Here is a video [Overview of the Project](/Videos/walkthrough.mp4) and a written description below.
 
 ### The problem
 
@@ -10,11 +10,11 @@ The problem set out for this project is that invoices for shipments are often de
 
 My proposal for the company is that they should use FedEx for all of their shipments. The reason is that a company like FedEx can handle large and small shipments domestically and internationally so they can support all of their shipping needs. The benefit of this would be to simplify their shipping processes since all divisions would have the same types of paperwork and the process for creating and managing shipments would be consistent. This would also make costs more consistent and predictable and because all shipments would go through one carrier and that carrier would capture all of their shipping data in their system. FedEx has an API that the company could use to create a database of all of their shipping information including cost estimates that are created at the time that a shipment is made.
 
-These shipping estimates would not be exact because different fees and costs could change during the shipment that would affect the actual cost but the estimates would be accurate enough that they could be used for budgetting purposes. This would mean that the company would have a database of near real-time shipping costs and this would negate the issue of needing to wait for an actual invoice before being able to budget for future time periods. Further, FedEx can issue subaccount numbers that could be dividion specific so that shipping information would be tracked by division in the shipment records. So while this would be a large project to change over to a single carrier it would simplify their shipping processes, create economies of scale that would reduce shipping costs, and eliminate the need to wait for invoices before budgetting.
+These shipping estimates would not be exact because different fees and costs could change during the shipment that would affect the actual cost but the estimates would be accurate enough that they could be used for budgeting purposes. This would mean that the company would have a database of near real-time shipping costs and this would negate the issue of needing to wait for an actual invoice before being able to budget for future time periods. Further, FedEx can issue subaccount numbers that could be dividion specific so that shipping information would be tracked by division in the shipment records. So while this would be a large project to change over to a single carrier it would simplify their shipping processes, create economies of scale that would reduce shipping costs, and eliminate the need to wait for invoices before budgeting.
 
 ### Unfortunately... 
 
-Unfortuanately my hypothetical company did not accept this recommendation and preferred to use their partial records to forecast future transportation costs as a way to budget without having received the most recent invoices.
+Unfortunately my hypothetical company did not accept this recommendation and preferred to use their partial records to forecast future transportation costs as a way to budget without having received the most recent invoices.
 
 ### The process
 
@@ -24,4 +24,4 @@ Within the past invoices there was also seasonality which could be used to creat
 
 ### The results
 
-These findings were then presented in a Power BI dashboard including visuals showing the relationships betweem the amount of delay and the transportation mode, the value of the total shipments made by region they were shipped from, and a final forecast.
+These findings were then presented in a Power BI dashboard including visuals showing the relationships between the amount of delay and the transportation mode, the value of the total shipments made by region they were shipped from, and a final forecast.
